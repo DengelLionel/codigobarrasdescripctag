@@ -80,10 +80,7 @@ function generateProductDescription(product) {
 
   if (!tagMatch) {
     return `
-      <div class="product-description">
-        <p>High-quality product from Tago's Jump Inc. Built with commercial-grade materials for durability and performance.</p>
-        <p>Perfect for events, parties, and commercial use. Trust in our commitment to quality and customer satisfaction.</p>
-      </div>
+    
     `;
   }
 
